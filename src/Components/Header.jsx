@@ -1,7 +1,7 @@
 import React from "react";
 import { IoIosArrowDroprightCircle } from "react-icons/io";
 import football from "../Assets/football.png";
-import guitar from "../Assets/guitar.jpg";
+
 
 const Header = () => {
   return (
